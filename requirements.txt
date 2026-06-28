@@ -4,3 +4,5 @@ feedparser
 pdfplumber
 google-genai
 requests
+plotly
+beautifulsoup4

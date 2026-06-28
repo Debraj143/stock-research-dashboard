@@ -1,0 +1,380 @@
+{
+  "RELIANCE.NS": {
+    "company": "Reliance Industries",
+    "year": "2025",
+    "currency": "INR Cr",
+    "revenue": {
+      "O2C (Oil to Chemicals)": 605000,
+      "Retail": 291000,
+      "Digital Services (Jio)": 131300,
+      "Oil and Gas": 25000,
+      "Others": 50000
+    },
+    "operating_income": {
+      "O2C (Oil to Chemicals)": 47000,
+      "Digital Services (Jio)": 40000,
+      "Retail": 19000,
+      "Oil and Gas": 16000,
+      "Others": 530
+    }
+  },
+  "HDFCBANK.NS": {
+    "company": "HDFC Bank",
+    "year": "2025",
+    "currency": "INR Cr",
+    "revenue": {
+      "Retail Banking": 283400,
+      "Insurance Business": 107600,
+      "Wholesale Banking": 192000,
+      "Treasury": 62000,
+      "Other Banking Operations": 35000,
+      "Others": 17000
+    },
+    "operating_income": {
+      "Wholesale Banking": 45000,
+      "Retail Banking": 27000,
+      "Other Banking Operations": 14000,
+      "Insurance Business": 5950,
+      "Treasury": 4610,
+      "Others": 1810
+    }
+  },
+  "BHARTIARTL.NS": {
+    "company": "Bharti Airtel",
+    "year": "2025",
+    "currency": "INR Cr",
+    "revenue": {
+      "Mobile Services India": 100200,
+      "Airtel Business": 22000,
+      "Mobile Services Africa": 42000,
+      "Passive Infrastructure": 11000,
+      "Homes Services": 5900,
+      "Digital TV Services": 3060,
+      "Others": 348
+    },
+    "operating_income": {
+      "Mobile Services India": 26000,
+      "Mobile Services Africa": 12000,
+      "Airtel Business": 5960,
+      "Passive Infrastructure": 7470,
+      "Homes Services": 1340,
+      "Digital TV Services": 116,
+      "Others": 204
+    }
+  },
+  "ICICIBANK.NS": {
+    "company": "ICICI Bank",
+    "year": "2025",
+    "currency": "INR Cr",
+    "revenue": {
+      "Life Insurance": 60000,
+      "General Insurance": 26000,
+      "Others": 13000
+    },
+    "operating_income": {
+      "Retail Banking": 22000,
+      "Wholesale Banking": 22000,
+      "Treasury": 19000,
+      "Others": 7420,
+      "Life Insurance": 1340,
+      "General Insurance": 3320,
+      "Other Banking": 1450
+    }
+  },
+  "SBIN.NS": {
+    "company": "State Bank of India",
+    "year": "2026",
+    "currency": "INR Cr",
+    "revenue": {
+      "Retail Banking - Other Retail": 261600,
+      "Insurance Business": 133300,
+      "Corporate / Wholesale Banking": 153400,
+      "Treasury Operations": 130100,
+      "Other Banking Operations": 35000,
+      "Retail Banking - Digital Banking": 4240
+    },
+    "operating_income": {
+      "Retail Banking - Other Retail": 42000,
+      "Corporate / Wholesale Banking": 33000,
+      "Treasury Operations": 14000,
+      "Retail Banking - Digital Banking": 18000,
+      "Other Banking Operations": 10000,
+      "Insurance Business": 3390
+    }
+  },
+  "TCS.NS": {
+    "company": "Tata Consultancy Services",
+    "year": "2026",
+    "currency": "INR Cr",
+    "revenue": {
+      "Banking, Financial Services & Ins.": 103400,
+      "Consumer Business": 42000,
+      "Communication, Media & Technology": 39000,
+      "Manufacturing": 27000,
+      "Others": 27000,
+      "Life Sciences and Healthcare": 28000
+    },
+    "operating_income": {
+      "Banking, Financial Services & Ins.": 27000,
+      "Consumer Business": 12000,
+      "Communication, Media & Technology": 11000,
+      "Manufacturing": 8050,
+      "Life Sciences and Healthcare": 7500,
+      "Others": 6270
+    }
+  },
+  "BAJFINANCE.NS": {
+    "company": "Bajaj Finance",
+    "year": "2025",
+    "currency": "INR Cr",
+    "revenue": {
+      "Financing (India)": 37000
+    },
+    "operating_income": {
+      "Financing (India)": 22000
+    }
+  },
+  "LT.NS": {
+    "company": "Larsen & Toubro",
+    "year": "2026",
+    "currency": "INR Cr",
+    "revenue": {
+      "Infrastructure Projects": 135400,
+      "IT & Technology Services": 55000,
+      "Energy Projects": 55000,
+      "Financial Services": 18000,
+      "Hi-Tech Manufacturing": 14000,
+      "Others": 8200,
+      "Development Projects": 5140
+    },
+    "operating_income": {
+      "Infrastructure Projects": 7760,
+      "IT & Technology Services": 8630,
+      "Energy Projects": 3370,
+      "Financial Services": 4030,
+      "Hi-Tech Manufacturing": 2110,
+      "Others": 2090,
+      "Development Projects": 539
+    }
+  },
+  "LICI.NS": {
+    "company": "Life Insurance Corporation of India",
+    "year": "2025",
+    "currency": "INR Cr",
+    "revenue": {
+      "Life Participating": 523300,
+      "Life Non Participating": 143100,
+      "Pension Non Participating": 167900,
+      "Annuity Non Participating": 27000,
+      "Linked Life Non Participating": 16000,
+      "Pension Participating": 3420,
+      "Linked Pension Non Participating": 2450,
+      "Health Non Participating": 268,
+      "Linked Health Non Participating": 218
+    },
+    "operating_income": {
+      "Life Non Participating": 39000,
+      "Life Participating": 11000,
+      "Pension Non Participating": 2540,
+      "Pension Participating": 368,
+      "Health Non Participating": 304,
+      "Annuity Non Participating": 700,
+      "Linked Life Non Participating": 232,
+      "Linked Pension Non Participating": 249,
+      "Linked Health Non Participating": 48
+    }
+  },
+  "HINDUNILVR.NS": {
+    "company": "Hindustan Unilever",
+    "year": "2026",
+    "currency": "INR Cr",
+    "revenue": {
+      "Home Care": 24000,
+      "Beauty & Wellbeing": 15000,
+      "Foods": 14000,
+      "Personal Care Business": 9560,
+      "Others": 2180
+    },
+    "operating_income": {
+      "Home Care": 4520,
+      "Beauty & Wellbeing": 4160,
+      "Foods": 2820,
+      "Personal Care Business": 1800,
+      "Others": 410
+    }
+  },
+  "INFY.NS": {
+    "company": "Infosys",
+    "year": "2026",
+    "currency": "USD Cr",
+    "revenue": {
+      "Financial Services": 563,
+      "Manufacturing": 328,
+      "Energy, Utilities & Resources": 269,
+      "Communication": 246,
+      "Retail": 261,
+      "Hi Tech": 157,
+      "Life Sciences": 138,
+      "All Other": 54
+    },
+    "operating_income": {
+      "Financial Services": 143,
+      "Manufacturing": 73,
+      "Energy, Utilities & Resources": 68,
+      "Retail": 80,
+      "Communication": 43,
+      "Hi Tech": 36,
+      "Life Sciences": 28,
+      "All Other": 8
+    }
+  },
+  "ITC.NS": {
+    "company": "ITC",
+    "year": "2025",
+    "currency": "INR Cr",
+    "revenue": {
+      "FMCG - Cigarettes": 36000,
+      "FMCG - Others": 22000,
+      "Agri Business": 20000,
+      "Others": 4290,
+      "Paperboards, Paper & Packaging": 8420
+    },
+    "operating_income": {
+      "FMCG - Cigarettes": 21000,
+      "FMCG - Others": 1590,
+      "Agri Business": 1540,
+      "Paperboards, Paper & Packaging": 883,
+      "Others": 671
+    }
+  },
+  "KOTAKBANK.NS": {
+    "company": "Kotak Mahindra Bank",
+    "year": "2025",
+    "currency": "INR Cr",
+    "revenue": {
+      "Retail Banking - Other Retail": 32000,
+      "Insurance": 25000,
+      "Corporate / Wholesale Banking": 25000,
+      "Treasury, BMU & Corporate Centre": 17000,
+      "Broking": 4370,
+      "Vehicle Financing": 4100,
+      "Asset Management": 2890,
+      "Other Lending Activities": 2230,
+      "Retail Banking - Digital Banking": 2170,
+      "Advisory & Transactional Services": 1680
+    },
+    "operating_income": {
+      "Treasury, BMU & Corporate Centre": 9110,
+      "Retail Banking - Other Retail": 5570,
+      "Corporate / Wholesale Banking": 7890,
+      "Asset Management": 1720,
+      "Insurance": 1150,
+      "Broking": 1520,
+      "Other Lending Activities": 738,
+      "Vehicle Financing": 699,
+      "Advisory & Transactional Services": 295,
+      "Retail Banking - Digital Banking": 284
+    }
+  },
+  "HCLTECH.NS": {
+    "company": "HCL Technologies",
+    "year": "2026",
+    "currency": "USD Cr",
+    "revenue": {
+      "IT and Business Services": 1080,
+      "Engineering and R&D Services": 249,
+      "HCL Software": 140
+    },
+    "operating_income": {
+      "IT and Business Services": 174,
+      "Engineering and R&D Services": 42,
+      "HCL Software": 37
+    }
+  },
+  "AXISBANK.NS": {
+    "company": "Axis Bank",
+    "year": "2025",
+    "currency": "INR Cr",
+    "revenue": {
+      "Retail Banking - Other Retail": 31000,
+      "Corporate / Wholesale Banking": 19000,
+      "Treasury": 7690,
+      "Other Banking Business": 5960,
+      "Retail Banking - Digital Banking": 12000
+    },
+    "operating_income": {
+      "Treasury": 7200,
+      "Corporate / Wholesale Banking": 13000,
+      "Retail Banking - Other Retail": 8590,
+      "Other Banking Business": 5100,
+      "Retail Banking - Digital Banking": 2200
+    }
+  },
+  "MARUTI.NS": {
+    "company": "Maruti Suzuki India",
+    "year": "2025",
+    "currency": "INR Cr",
+    "revenue": {
+      "Vehicles, Components & Spare Parts": 152900
+    },
+    "operating_income": {
+      "Vehicles, Components & Spare Parts": 20000
+    }
+  },
+  "TITAN.NS": {
+    "company": "Titan Company",
+    "year": "2025",
+    "currency": "INR Cr",
+    "revenue": {
+      "Jewellery": 54000,
+      "Watches": 4600,
+      "Others": 1280,
+      "Eyecare": 801
+    },
+    "operating_income": {
+      "Jewellery": 4900,
+      "Watches": 548,
+      "Eyecare": 80,
+      "Others": 8
+    }
+  },
+  "SUNPHARMA.NS": {
+    "company": "Sun Pharmaceutical Industries",
+    "year": "2025",
+    "currency": "INR Cr",
+    "revenue": {
+      "Pharmaceuticals": 53000
+    },
+    "operating_income": {
+      "Pharmaceuticals": 14000
+    }
+  },
+  "ULTRACEMCO.NS": {
+    "company": "UltraTech Cement",
+    "year": "2025",
+    "currency": "INR Cr",
+    "revenue": {
+      "Cement and Cement Related Products": 76000
+    },
+    "operating_income": {
+      "Cement and Cement Related Products": 7540
+    }
+  },
+  "M&M.NS": {
+    "company": "Mahindra & Mahindra",
+    "year": "2025",
+    "currency": "INR Cr",
+    "revenue": {
+      "Automotive": 91000,
+      "Financial Services": 18000,
+      "Industrial Businesses & Consumer Svcs": 19000,
+      "Farm Equipment": 35000
+    },
+    "operating_income": {
+      "Automotive": 7800,
+      "Farm Equipment": 4950,
+      "Financial Services": 3000,
+      "Industrial Businesses & Consumer Svcs": 2720
+    }
+  }
+}
